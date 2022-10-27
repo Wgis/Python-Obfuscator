@@ -1,4 +1,4 @@
-# Python-Obfuscator
+# Python-Obfuscator 
 
 One night I got bored of writing good code, so I made good code to make bad code.
 
@@ -62,11 +62,11 @@ print("{} that's a great number!".format(user_value))
 [With `--one-liner True`](https://gist.github.com/davidteather/75e48c04bf74f0262fe2919239a74295)
 
 ## Authors
-
+ 
 * **Rdimo0** - *Initial work* - [Rdimo0](https://github.com/Rdimo0)
 
 See also the list of [contributors](https://github.com/davidteather/python-obfuscator) who participated in this project.
 
-## License
+## License. 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

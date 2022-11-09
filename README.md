@@ -13,7 +13,7 @@ One night I got bored of writing good code, so I made good code to make bad code
 pip install python-obfuscator
 ```
 
-## Quickstart
+## Quickstart 
 
 Print out obfuscated code
 ```
